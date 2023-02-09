@@ -1,0 +1,158 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 50vw;
+    width: 100vw;
+    background-image: url(./drumkit.jpg);
+    background-size: 100% 100%;
+}
+
+h1{ 
+    color: black;
+    text-align: center;
+    font-size: 150px;
+    margin-top: 10%;
+
+    
+}
+
+.drumkitKeys{
+    width:95%;
+    position: relative;
+    height: 20vh;
+    display: flex;
+    margin: 0 auto;
+    border: 5px solid black;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#A{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#S{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#D{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#F{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#G{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#H{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#J{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#K{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
+
+#L{
+    border-radius: 0.5rem;
+    border: 0.4rem solid pink;
+    height: 80%;
+    width: 8%;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 5rem;
+    color: black;
+    display: flex;
+    margin:0 auto;
+    justify-content: space-evenly; 
+}
